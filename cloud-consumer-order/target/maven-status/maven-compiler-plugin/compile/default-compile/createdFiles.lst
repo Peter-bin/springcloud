@@ -1,0 +1,4 @@
+com\buba\springclould\myrule\MyselfRule.class
+com\buba\springclould\order\OrderMain.class
+com\buba\springclould\order\controller\OrderController.class
+com\buba\springclould\order\config\ApplicationContextConfig.class

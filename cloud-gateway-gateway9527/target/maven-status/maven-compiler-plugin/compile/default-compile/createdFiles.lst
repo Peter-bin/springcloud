@@ -1,0 +1,4 @@
+com\buba\springcloud\gateway\filter\MyLogGatewatFilter.class
+com\buba\springcloud\gateway\GatewayMain.class
+com\buba\springcloud\gateway\config\GateWayConfig.class
+com\buba\springcloud\gateway\filter\TokenFilter.class
